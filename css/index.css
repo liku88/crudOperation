@@ -1,0 +1,47 @@
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mycus1{
+/*    border: 2px solid black;*/
+    height: auto;
+    width: auto;
+}
+.mycus2{
+/*    border: 2px solid black;*/
+    height: auto;
+    width: auto;
+   
+}
+.center1{
+    text-align: center;
+    display: inline-block;
+}
+.image-section{
+  margin-left: 38px;
+  margin-top: 25px ;
+}
+.mycus3{
+    margin-top: 55px;
+}
+.mycus4{
+    border-radius: 30px;
+    width: 150px;
+}
+
+.center2{
+    text-align: center;
+    display: inline-block;
+}
+.header2{
+    margin-bottom: 50px;
+    color: black;
+}
+.inputmycus{
+    margin: 0 15px;
+    margin-bottom: 25px;
+    width: 300px;
+    height: 45px;
+    
+}
